@@ -120,7 +120,7 @@ public class WeatherApp extends javax.swing.JFrame {
         jLabel2.setBounds(236, 56, 111, 47);
 
         cb_city.setBackground(new java.awt.Color(255, 153, 153));
-        cb_city.setModel(new javax.swing.DefaultComboBoxModel<>(new String[]{"Hanoi", "Danang", "Saigon"}));
+        cb_city.setModel(new javax.swing.DefaultComboBoxModel<>(new String[]{"Hanoi", "Danang", "Saigon", "Tay Ninh", "Ben Tre"}));
         cb_city.setToolTipText("");
         cb_city.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
